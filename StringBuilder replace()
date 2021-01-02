@@ -1,0 +1,9 @@
+public class FirstMethod
+{
+    public static void main(String[] args) {
+        StringBuilder a= new StringBuilder("Abhishek");
+        StringBuilder b= a.replace(0,7 ," kumar");
+        System.out.println(b);
+		
+	}
+}
