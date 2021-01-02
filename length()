@@ -1,0 +1,9 @@
+public class Program
+{
+    public static void main(String[] args) {
+        StringBuffer ab= new StringBuffer("Abhishek kumar");
+        int a= ab.length();
+        System.out.println("The total number of character is = "+ a);
+		
+	}
+}
