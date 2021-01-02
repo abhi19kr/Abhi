@@ -1,0 +1,9 @@
+public class Capacity
+{
+    public static void main(String[] args) {
+        StringBuffer ab= new StringBuffer("Abhishek kumar");
+        int b = ab.capacity();
+        System.out.println(b);
+		
+	}
+}
