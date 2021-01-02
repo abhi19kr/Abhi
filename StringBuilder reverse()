@@ -1,0 +1,10 @@
+public class FirstMethod
+{
+    public static void main(String[] args) {
+        StringBuilder a= new StringBuilder(" Abhishek");
+        StringBuilder b= a.insert(0," kumar");
+        System.out.println(b);
+		
+	}
+}
+output = kumar Abhishek
