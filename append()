@@ -1,0 +1,9 @@
+	public class Append
+{
+    public static void main(String[] args) {
+        StringBuffer s1 = new StringBuffer ("Abhishek");
+        StringBuffer s2= s1.append( " Kumar ");
+         System.out.println(s2);
+		
+	}
+}
